@@ -1,0 +1,596 @@
+{
+  "business": {
+    "name": "Franklin Fence and Deck LLC",
+    "phone": "16154854716",
+    "category": "fencing",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "fencing-mountain-bold",
+      "categoryGroup": "fencing",
+      "name": "Mountain Bold",
+      "recipeFile": "fencing/mountain-bold.astro",
+      "colors": {
+        "primary": "#451A03",
+        "primaryDark": "#301202",
+        "primaryLight": "#d1c6c0",
+        "secondary": "#78350F",
+        "accent": "#92400E",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#451A03",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "fencing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Fence Experts",
+      "heroSubline": "Protecting your property with quality fencing solutions. Serving Franklin, Brentwood, and beyond.",
+      "aboutTitle": "Your Nashville Fencing Partner",
+      "aboutText": [
+        "Franklin Fence and Deck LLC started with a simple goal: to provide reliable and beautiful fencing solutions for our neighbors in Nashville and the surrounding areas. We saw a need for a contractor that understands the unique challenges of our local environment, from the limestone bedrock to the unpredictable weather.",
+        "We believe in doing things the right way. That means using quality materials, employing skilled craftsmen, and communicating clearly with our clients every step of the way. Our focus is on building fences that are not only functional but also enhance the beauty and value of your property.",
+        "We're proud to be a part of the Nashville community. We support local initiatives and strive to build lasting relationships with our customers. When you choose Franklin Fence and Deck, you're choosing a partner who cares about your property and our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Nashville's climate, soil, and building codes, ensuring a fence that lasts."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use premium wood, vinyl, and metal for durable and beautiful fences."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "We work with you to create a fence that meets your specific needs and aesthetic preferences."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "From initial consultation to final installation, we're committed to your satisfaction."
+        }
+      ],
+      "ctaHeadline": "Ready to Secure Your Property?",
+      "ctaSubline": "Contact us today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences built with quality lumber and expert craftsmanship.",
+        "description": "Wood fences offer a timeless aesthetic and natural appeal, making them a popular choice for Nashville homeowners. At Franklin Fence and Deck LLC, we specialize in crafting beautiful and durable wood fences that complement your property. We offer a variety of wood types, including pressure-treated pine, cedar, and redwood, each offering unique characteristics in terms of durability and appearance. From classic picket fences to privacy fences, we can customize your wood fence to meet your specific needs and preferences. Our experienced team ensures precise installation, considering Nashville's soil conditions and climate to maximize longevity. We also offer staining and sealing services to protect your investment from the elements.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, property lines, and aesthetic preferences to create a custom design.",
+          "Step 2: Material Selection – We help you choose the right wood type and hardware based on your budget and desired look.",
+          "Step 3: Professional Installation – Our skilled team handles all aspects of the installation, from post setting to picket placement.",
+          "Step 4: Finishing Touches – We stain, seal, and inspect the fence to ensure it meets our high standards."
+        ],
+        "benefits": [
+          "Enhanced Privacy and Security",
+          "Natural Beauty and Curb Appeal",
+          "Customizable Designs",
+          "Cost-Effective Fencing Option"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Nashville's climate?",
+            "answer": "With proper maintenance and sealing, a well-constructed wood fence can last 15-20 years in Nashville. Cedar and redwood offer greater natural resistance to rot and insects."
+          },
+          {
+            "question": "What type of wood is best for a privacy fence?",
+            "answer": "Pressure-treated pine is a popular and affordable choice for privacy fences. Cedar is a more premium option with superior durability and natural beauty."
+          },
+          {
+            "question": "Do I need a permit to build a wood fence in Nashville?",
+            "answer": "In many cases, yes. We can help you navigate the permitting process and ensure your fence meets all local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and durability.",
+        "description": "Vinyl fences provide a durable and low-maintenance fencing solution ideal for busy Nashville homeowners. Unlike wood, vinyl resists rot, insect damage, and weathering, ensuring your fence looks great for years to come with minimal upkeep. Franklin Fence and Deck LLC offers a wide selection of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences, in a variety of colors and textures to complement your home's architecture. Our experienced installers ensure precise installation, paying close attention to detail to create a beautiful and long-lasting fence. Vinyl fences are also an environmentally friendly choice, as they are made from recycled materials and require no painting or staining.",
+        "process": [
+          "Step 1: Site Assessment and Design – We evaluate your property and discuss your needs to create a custom vinyl fence design.",
+          "Step 2: Material Selection – Choose from a variety of vinyl styles, colors, and textures to match your home's aesthetic.",
+          "Step 3: Professional Installation – Our team handles all aspects of the installation, ensuring proper post setting and panel alignment.",
+          "Step 4: Final Inspection – We inspect the fence to ensure it meets our high standards and your complete satisfaction."
+        ],
+        "benefits": [
+          "Low Maintenance – No painting, staining, or sealing required.",
+          "Exceptional Durability – Resists rot, insects, and weathering.",
+          "Variety of Styles and Colors",
+          "Environmentally Friendly"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A properly installed vinyl fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Is vinyl fencing more expensive than wood fencing?",
+            "answer": "The initial cost of vinyl fencing is typically higher than wood, but the long-term cost is often lower due to its minimal maintenance requirements."
+          },
+          {
+            "question": "Can vinyl fences be damaged by strong winds?",
+            "answer": "Our vinyl fences are designed to withstand strong winds. We use high-quality materials and proper installation techniques to ensure stability."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant and durable aluminum fences for security and style.",
+        "description": "Aluminum fences offer a sophisticated and durable fencing solution for Nashville properties. With a sleek, modern look, aluminum fences enhance curb appeal while providing security and boundary definition. Franklin Fence and Deck LLC installs a variety of aluminum fence styles, including ornamental fences, pool fences, and security fences, in a range of colors and finishes. Aluminum fences are virtually maintenance-free, requiring no painting or staining. They are also resistant to rust and corrosion, making them ideal for Nashville's humid climate. Our expert installers ensure precise installation, creating a beautiful and long-lasting fence that complements your property.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and property layout to create a custom aluminum fence design.",
+          "Step 2: Material Selection – Choose from a variety of aluminum styles, colors, and finishes to match your aesthetic.",
+          "Step 3: Professional Installation – Our team handles all aspects of the installation, ensuring proper post setting and panel alignment.",
+          "Step 4: Final Inspection – We inspect the fence to ensure it meets our high standards and your complete satisfaction."
+        ],
+        "benefits": [
+          "Elegant and Modern Appearance",
+          "Maintenance-Free",
+          "Rust and Corrosion Resistant",
+          "Enhanced Security and Property Value"
+        ],
+        "faq": [
+          {
+            "question": "Are aluminum fences strong enough for security?",
+            "answer": "Yes, aluminum fences provide a good level of security, especially when combined with a locking gate. We offer a variety of security features to enhance protection."
+          },
+          {
+            "question": "Will an aluminum fence rust?",
+            "answer": "No, aluminum fences are naturally rust-resistant and will not corrode, even in Nashville's humid climate."
+          },
+          {
+            "question": "Are aluminum fences more expensive than wood fences?",
+            "answer": "Aluminum fences typically have a higher upfront cost than wood fences, but their low maintenance requirements can make them a cost-effective option in the long run."
+          }
+        ]
+      },
+      {
+        "slug": "deck-building",
+        "name": "Custom Deck Building",
+        "shortDescription": "Design and construction of custom decks to enhance your outdoor living space.",
+        "description": "Enhance your Nashville home with a custom-built deck from Franklin Fence and Deck LLC. We specialize in designing and building decks that perfectly complement your lifestyle and property. Whether you envision a spacious deck for entertaining, a cozy patio for relaxing, or a multi-level deck with built-in seating, we can bring your vision to life. We offer a variety of decking materials, including pressure-treated lumber, composite decking, and exotic hardwoods, each offering unique characteristics in terms of durability, appearance, and maintenance. Our experienced craftsmen ensure precise construction, adhering to all local building codes and safety standards. We also offer deck staining, sealing, and railing installation services to complete your outdoor oasis.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your needs, budget, and aesthetic preferences to create a custom deck design.",
+          "Step 2: Material Selection – Choose from a variety of decking materials, railings, and accessories.",
+          "Step 3: Permitting and Construction – We handle all permitting requirements and manage the construction process from start to finish.",
+          "Step 4: Finishing Touches – We stain, seal, and inspect the deck to ensure it meets our high standards."
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Property Value",
+          "Customizable Designs",
+          "Durable and Long-Lasting Construction"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Nashville's climate?",
+            "answer": "Composite decking is a great option for Nashville's climate as it resists moisture, fading, and insect damage. Pressure-treated lumber is a more affordable option that requires regular sealing and maintenance."
+          },
+          {
+            "question": "Do I need a permit to build a deck in Nashville?",
+            "answer": "Yes, a building permit is typically required for deck construction. We can help you navigate the permitting process."
+          },
+          {
+            "question": "How long will a deck last?",
+            "answer": "The lifespan of a deck depends on the materials used and the level of maintenance. A well-maintained composite deck can last 25-30 years or more, while a pressure-treated lumber deck may last 15-20 years."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Fast and reliable fence repair to restore security and appearance.",
+        "description": "Nashville's unpredictable weather, from spring thunderstorms to occasional ice storms, can take a toll on your fence. Franklin Fence and Deck LLC offers prompt and reliable fence repair services to restore the security and appearance of your property. Whether you have a broken post, damaged pickets, or a leaning fence, our experienced team can quickly diagnose the problem and provide effective solutions. We repair all types of fences, including wood, vinyl, and aluminum. We use quality materials and proven techniques to ensure lasting repairs. Don't let a damaged fence compromise your property's security or curb appeal – contact us today for a free repair estimate.",
+        "process": [
+          "Step 1: Inspection – We assess the damage to your fence and provide a detailed repair estimate.",
+          "Step 2: Material Procurement – We source the necessary materials to match your existing fence.",
+          "Step 3: Professional Repair – Our team completes the repairs efficiently and effectively.",
+          "Step 4: Final Inspection – We inspect the repaired fence to ensure it meets our high standards."
+        ],
+        "benefits": [
+          "Restored Security and Privacy",
+          "Improved Curb Appeal",
+          "Extended Fence Lifespan",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to repair a fence?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the materials required. We provide free estimates to assess the cost of your specific repair needs."
+          },
+          {
+            "question": "How long does it take to repair a fence?",
+            "answer": "Most fence repairs can be completed within a day or two, depending on the complexity of the job."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations, such as storm damage or security breaches."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates for your fence, installed or repaired with precision.",
+        "description": "A well-functioning gate is essential for security, convenience, and curb appeal. Franklin Fence and Deck LLC specializes in gate installation and repair for all types of fences in the Nashville area. We install a variety of gate styles, including swing gates, sliding gates, and automatic gates, to meet your specific needs and preferences. We also repair existing gates, addressing issues such as sagging, sticking, and broken hardware. Our experienced team ensures precise installation and reliable repairs, providing you with a gate that is both functional and aesthetically pleasing. We understand the importance of a secure and properly functioning gate, and we are committed to providing top-quality service.",
+        "process": [
+          "Step 1: Consultation – We discuss your needs and property layout to determine the best gate solution for your fence.",
+          "Step 2: Gate Selection – Choose from a variety of gate styles, materials, and hardware options.",
+          "Step 3: Professional Installation – Our team handles all aspects of the gate installation, ensuring proper alignment and functionality.",
+          "Step 4: Gate Repair – We diagnose and repair existing gate issues, such as sagging, sticking, and broken hardware."
+        ],
+        "benefits": [
+          "Enhanced Security and Privacy",
+          "Improved Curb Appeal",
+          "Convenient Access",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your specific needs and preferences. Swing gates are a classic choice, while sliding gates are ideal for properties with limited space. Automatic gates offer added convenience and security."
+          },
+          {
+            "question": "How much does it cost to install a gate?",
+            "answer": "The cost of gate installation depends on the gate style, materials, and hardware. We provide free estimates to assess the cost of your specific installation needs."
+          },
+          {
+            "question": "Can you repair my existing gate?",
+            "answer": "Yes, we repair all types of gates, addressing issues such as sagging, sticking, and broken hardware."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is proud to offer our expert fencing and decking services to the residents and businesses of Franklin, Tennessee. Known for its historic downtown and beautiful antebellum homes, Franklin demands a certain level of craftsmanship and aesthetic appeal. We understand the unique needs of Franklin property owners, from matching the architectural style of your historic home to providing durable and weather-resistant solutions for our hot, humid summers.\n\nWhether you're looking to install a classic wood fence to complement your historic property, a sturdy privacy fence for your family, or a custom deck for outdoor entertaining, Franklin Fence and Deck LLC has you covered. We use only the highest quality materials and employ experienced professionals to ensure that your project is completed to your satisfaction. We consider the climate of Franklin (hot humid summers) when proposing materials.",
+        "localContext": "Franklin is a city rich in history, known for its well-preserved antebellum homes and vibrant downtown area.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is Murfreesboro's trusted provider of high-quality fencing and decking solutions. With its rapidly growing population and affordable family developments, Murfreesboro presents a unique set of needs for homeowners. We're committed to providing durable, affordable, and attractive fencing and decking options to enhance your property and protect your family.\n\nFrom privacy fences to keep your family safe to decorative fences that enhance curb appeal, we have a wide range of styles and materials to choose from. We also specialize in custom deck design and construction, creating outdoor living spaces that are perfect for relaxing and entertaining. We take into account the hot, humid summers when recommending materials and construction methods.",
+        "localContext": "Murfreesboro is a large and growing city known for its family-friendly atmosphere and affordable housing options.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Rockvale"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC caters to the discerning homeowners of Brentwood, Tennessee, providing exceptional fencing and decking services that complement the city's luxury estates and wooded lots. We understand the importance of quality, craftsmanship, and aesthetic appeal in Brentwood, and we're dedicated to exceeding your expectations.\n\nWhether you're looking for a custom-designed fence to enhance the privacy and security of your estate or a luxurious deck for outdoor entertaining, we have the expertise and experience to bring your vision to life. We use only the finest materials and employ skilled craftsmen to ensure that your project is completed to the highest standards. We understand the impact the hot, humid summers have on material selection.",
+        "localContext": "Brentwood is known for its beautiful luxury homes, spacious wooded lots, and upscale community.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is proud to serve the residents of Hendersonville, Tennessee, offering top-notch fencing and decking solutions tailored to the unique needs of this lakefront community. With its beautiful homes on Old Hickory Lake, Hendersonville demands durable, weather-resistant materials and designs that complement the waterfront lifestyle.\n\nWe specialize in building fences and decks that can withstand the elements while enhancing the beauty and value of your property. Whether you're looking for a secure fence to protect your waterfront property or a spacious deck for enjoying the lake views, we have the expertise and experience to get the job done right. We also consider the impact of hot, humid summers when recommending materials.",
+        "localContext": "Hendersonville is a vibrant city located on the shores of Old Hickory Lake, known for its lakefront homes and recreational opportunities.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC proudly extends its expert fencing and decking services to the vibrant city of Nashville, Tennessee. As Nashville continues to grow and evolve, the demand for quality outdoor spaces is higher than ever. We're committed to providing Nashville residents and businesses with durable, attractive, and functional fencing and decking solutions.\n\nWhether you're looking to enhance the curb appeal of your home, create a private backyard oasis, or build a commercial deck for your business, we have the experience and expertise to handle any project, big or small. We understand the unique needs of Nashville property owners and are dedicated to exceeding your expectations. The climate (hot humid summers) is always a consideration.",
+        "localContext": "Nashville, the capital of Tennessee, is a vibrant city known for its music scene, diverse culture, and booming economy.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is dedicated to providing Spring Hill, Tennessee, with top-quality fencing and decking services. As a rapidly growing community, Spring Hill presents unique opportunities for homeowners to enhance their properties with beautiful and functional outdoor spaces. We're committed to delivering exceptional results that meet the specific needs of Spring Hill residents.\n\nFrom classic wood fences to modern composite decks, we offer a wide range of options to suit your style and budget. We also specialize in custom designs, ensuring that your fence or deck perfectly complements your home and lifestyle. We consider the hot, humid summers when proposing materials.",
+        "localContext": "Spring Hill is a rapidly growing city known for its family-friendly atmosphere and convenient location.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Thompson's Station",
+        "slug": "thompson-s-station-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is pleased to offer our comprehensive fencing and decking services to the residents of Thompson's Station, Tennessee. Known for its picturesque landscapes and growing community, Thompson's Station is a wonderful place to call home. We're dedicated to providing Thompson's Station homeowners with the highest quality outdoor solutions to enhance their properties.\n\nWhether you're looking to install a privacy fence for added security or a custom deck for outdoor entertaining, we have the expertise and experience to bring your vision to life. We use only the best materials and employ skilled craftsmen to ensure that your project is completed to your satisfaction. We always consider the hot, humid summers when recommending materials.",
+        "localContext": "Thompson's Station is a charming town known for its scenic beauty and close-knit community.",
+        "nearbyAreas": [
+          "Spring Hill",
+          "Franklin",
+          "Columbia"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is proud to serve the community of Smyrna, Tennessee, with professional fencing and decking services. As a thriving town with a strong sense of community, Smyrna deserves the best in outdoor living solutions. We are committed to providing Smyrna residents with durable, attractive, and functional fences and decks.\n\nWhether you need a privacy fence for your backyard, a decorative fence to enhance your curb appeal, or a custom deck for entertaining, we have the skills and expertise to meet your needs. We use high-quality materials and employ experienced professionals to ensure your project is completed to the highest standards. The climate (hot humid summers) factors into our material choices.",
+        "localContext": "Smyrna is a growing town known for its strong community spirit and convenient location.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC extends its quality fencing and decking services to La Vergne, Tennessee. As a diverse and growing community, La Vergne residents deserve reliable and attractive outdoor solutions. We are dedicated to providing La Vergne homeowners with exceptional service and top-notch craftsmanship.\n\nFrom classic wood fences to low-maintenance composite decks, we offer a variety of options to suit your style and budget. Our team is committed to delivering outstanding results that enhance the beauty and value of your property. We understand the unique challenges presented by the hot, humid summers.",
+        "localContext": "La Vergne is a diverse and growing city known for its convenient location and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is pleased to offer our professional fencing and decking services to the residents of Goodlettsville, Tennessee. Known for its blend of small-town charm and convenient access to Nashville, Goodlettsville is a great place to live. We are dedicated to providing Goodlettsville homeowners with high-quality outdoor solutions that enhance their properties.\n\nWhether you're looking for a secure fence for your family or a beautiful deck for outdoor entertaining, we have the expertise and experience to bring your vision to life. We use only the best materials and employ skilled craftsmen to ensure that your project is completed to your satisfaction. Climate considerations (hot humid summers) are always part of our project planning.",
+        "localContext": "Goodlettsville is a charming city known for its small-town atmosphere and convenient location near Nashville.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Madison",
+          "Nashville"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC proudly provides fencing and decking services to Gallatin, Tennessee. With its historic charm and growing community, Gallatin deserves the best in outdoor living solutions. We are committed to offering Gallatin residents durable, attractive, and functional fences and decks that enhance their properties.\n\nWhether you need a privacy fence for your backyard, a decorative fence to enhance your curb appeal, or a custom deck for entertaining, we have the skills and expertise to meet your needs. We focus on using high-quality materials and experienced professionals to ensure your project is completed to the highest standards. We take into account the impact of the hot, humid summers in our material choices.",
+        "localContext": "Gallatin is a city known for its historic charm and growing community.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "Mount Juliet",
+        "slug": "mount-juliet-tn",
+        "state": "TN",
+        "content": "Franklin Fence and Deck LLC is delighted to offer our expert fencing and decking services to the residents of Mount Juliet, Tennessee. As a thriving suburban community, Mount Juliet deserves top-quality outdoor living solutions. We are committed to providing Mount Juliet homeowners with exceptional craftsmanship and reliable service.\n\nFrom classic wood fences to modern composite decks, we offer a wide range of options to suit your style and budget. Our team is dedicated to delivering outstanding results that enhance the beauty and value of your property. We understand the need for materials that can withstand the hot, humid summers.",
+        "localContext": "Mount Juliet is a thriving suburban community known for its excellent schools and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Lebanon",
+          "Hermitage",
+          "Old Hickory"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Franklin Fence and Deck did an amazing job installing our new wood privacy fence. The crew was professional, efficient, and the fence looks fantastic! They even took the time to clean up thoroughly after the job was done. Highly recommend!",
+        "date": "2024-10-26"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Vinyl Fence Repair",
+        "text": "We had a section of our vinyl fence damaged during a storm. Franklin Fence and Deck came out quickly and repaired it seamlessly. You can't even tell where the damage was! A bit pricey, but the quality of work is worth it.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Custom Deck Building",
+        "text": "We hired Franklin Fence and Deck to build a custom deck off our back porch, and we couldn't be happier. They helped us design the perfect space, and the craftsmanship is excellent. We've already spent so much time enjoying our new outdoor living area!",
+        "date": "2024-12-03"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Aluminum Fence Installation",
+        "text": "I needed a fence around my pool to meet code requirements, and Franklin Fence and Deck provided a beautiful and secure aluminum fence. The installation was quick and efficient, and the fence looks great. Very professional company to work with.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Gate Repair",
+        "text": "Our gate was sagging and difficult to open. Franklin Fence and Deck came out and fixed it quickly and affordably. The gate now swings smoothly and latches securely. Great service!",
+        "date": "2025-02-22"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "From the initial consultation to the final installation, Franklin Fence and Deck provided exceptional service. They listened to our needs and created a beautiful wood fence that enhances the privacy and security of our property. The team was professional, courteous, and detail-oriented. Highly recommended!",
+        "date": "2025-03-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Franklin Fence & Deck | Nashville, TN",
+        "description": "Nashville's leading fence and deck contractor. Quality wood, vinyl, and aluminum fences. Custom deck design and installation. Free estimates!"
+      },
+      "about": {
+        "title": "About Us | Franklin Fence & Deck",
+        "description": "Learn about Franklin Fence & Deck's commitment to quality fencing and deck building in Nashville, TN. Local experts you can trust."
+      },
+      "services": {
+        "title": "Nashville Fence & Deck Services",
+        "description": "Comprehensive fence and deck services in Nashville, TN. Wood, vinyl, aluminum fence installation, repair, and custom deck building."
+      },
+      "contact": {
+        "title": "Contact Franklin Fence & Deck",
+        "description": "Contact Franklin Fence & Deck for a free fence or deck estimate in Nashville. Call 16154854716 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Franklin Fence & Deck Reviews",
+        "description": "Read reviews from satisfied Franklin Fence & Deck customers in Nashville, TN. Quality fence and deck installation and repair services."
+      },
+      "service-areas": {
+        "title": "Nashville TN Service Areas",
+        "description": "Franklin Fence & Deck provide fence and deck services throughout the Nashville metro area. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "deck-building": "/images/service-deck-building.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-building": {
+        "src": "/images/service-deck-building.webp",
+        "srcset": "/images/service-deck-building-400w.webp 400w, /images/service-deck-building-800w.webp 800w, /images/service-deck-building-1200w.webp 1200w, /images/service-deck-building.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
